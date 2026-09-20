@@ -1,0 +1,30 @@
+# Synthetic authentication log
+# Fields: timestamp, event_id, username, source_ip, result
+2026-09-18 09:03:00,EventID=4624,User=jlee,SourceIP=10.10.20.15,Result=SUCCESS
+2026-09-18 09:11:00,EventID=4624,User=mgarcia,SourceIP=10.10.20.22,Result=SUCCESS
+2026-09-18 09:18:00,EventID=4624,User=arivera,SourceIP=10.10.20.31,Result=SUCCESS
+2026-09-18 09:27:00,EventID=4624,User=jlee,SourceIP=10.10.20.15,Result=SUCCESS
+2026-09-18 09:35:00,EventID=4624,User=tnguyen,SourceIP=10.10.20.44,Result=SUCCESS
+2026-09-18 09:49:00,EventID=4624,User=mgarcia,SourceIP=10.10.20.22,Result=SUCCESS
+2026-09-18 09:55:00,EventID=4625,User=jlee,SourceIP=185.77.12.44,Result=FAIL
+2026-09-18 09:55:22,EventID=4625,User=jlee,SourceIP=185.77.12.44,Result=FAIL
+2026-09-18 09:55:44,EventID=4625,User=jlee,SourceIP=185.77.12.44,Result=FAIL
+2026-09-18 09:56:06,EventID=4625,User=jlee,SourceIP=185.77.12.44,Result=FAIL
+2026-09-18 09:56:28,EventID=4625,User=jlee,SourceIP=185.77.12.44,Result=FAIL
+2026-09-18 09:56:50,EventID=4625,User=jlee,SourceIP=185.77.12.44,Result=FAIL
+2026-09-18 09:57:12,EventID=4625,User=jlee,SourceIP=185.77.12.44,Result=FAIL
+2026-09-18 09:57:34,EventID=4625,User=jlee,SourceIP=185.77.12.44,Result=FAIL
+2026-09-18 09:57:56,EventID=4625,User=jlee,SourceIP=185.77.12.44,Result=FAIL
+2026-09-18 09:58:18,EventID=4625,User=jlee,SourceIP=185.77.12.44,Result=FAIL
+2026-09-18 09:58:40,EventID=4625,User=jlee,SourceIP=185.77.12.44,Result=FAIL
+2026-09-18 09:59:02,EventID=4625,User=jlee,SourceIP=185.77.12.44,Result=FAIL
+2026-09-18 09:59:24,EventID=4625,User=jlee,SourceIP=185.77.12.44,Result=FAIL
+2026-09-18 09:59:46,EventID=4625,User=jlee,SourceIP=185.77.12.44,Result=FAIL
+2026-09-18 10:00:08,EventID=4625,User=jlee,SourceIP=185.77.12.44,Result=FAIL
+2026-09-18 10:00:30,EventID=4625,User=jlee,SourceIP=185.77.12.44,Result=FAIL
+2026-09-18 10:00:52,EventID=4625,User=jlee,SourceIP=185.77.12.44,Result=FAIL
+2026-09-18 10:01:14,EventID=4625,User=jlee,SourceIP=185.77.12.44,Result=FAIL
+2026-09-18 10:02:10,EventID=4624,User=jlee,SourceIP=185.77.12.44,Result=SUCCESS
+2026-09-18 10:07:00,EventID=4624,User=arivera,SourceIP=10.10.20.31,Result=SUCCESS
+2026-09-18 10:12:00,EventID=4624,User=tnguyen,SourceIP=10.10.20.44,Result=SUCCESS
+2026-09-18 10:19:00,EventID=4624,User=mgarcia,SourceIP=10.10.20.22,Result=SUCCESS
