@@ -100,3 +100,14 @@ Based on the findings, I would recommend:
 5. Preserve relevant authentication and system logs for further investigation.
 6. If MFA is not already enabled, require multifactor authentication to strengthen account security.
 
+## Repository Structure
+
+```text
+soc-brute-force-investigation/
+├── README.md
+├── analysis/
+│   └── investigation-notes.md
+├── logs/
+│   └── auth.log
+└── report/
+    └── incident-report.pdf
